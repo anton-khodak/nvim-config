@@ -3,7 +3,6 @@ return {
   opts = {
     ensure_installed = {
       "bash",
-      "elixir",
       "go",
       "python",
       "make",
