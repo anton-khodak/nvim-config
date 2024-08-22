@@ -1,0 +1,7 @@
+-- return {
+--   "folke/which-key.nvim",
+--   opts = {
+--     spec = {
+--       {
+--         mode = { "n", "v" },
+--         { "<leader><tab>", group = "tabs" },

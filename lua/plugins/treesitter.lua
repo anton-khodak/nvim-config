@@ -8,6 +8,6 @@ return {
       "make",
       "terraform",
     },
-    highlight = { enable = false },
+    highlight = { enable = true },
   },
 }
